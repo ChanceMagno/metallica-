@@ -2,4 +2,21 @@ body {
   background-image: url("background.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
+  color: #FFFFFF;
+}
+
+.concerts {
+  width: 25%;
+  height: 50%;
+  float: right;
+  background-color:blue;
+  align-content: center;
+  }
+
+.about {
+
+}
+
+.album {
+
 }
