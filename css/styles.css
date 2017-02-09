@@ -2,6 +2,7 @@ body {
   background-image: url("background.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
+
   color: #FFFFFF;
 }
 
@@ -26,5 +27,13 @@ body {
   width: 75%;
 }
 
-.albums{
+.albums {
   float: left;
+}
+
+.column {
+  width: 300px;
+  float:left;
+  text-align: left;
+  padding: 25px;
+}
