@@ -23,5 +23,8 @@ body {
 }
 
 .album {
-
+  width: 75%;
 }
+
+.albums{
+  float: left;
